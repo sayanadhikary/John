@@ -1,7 +1,6 @@
 export default function Contact(){
     return <>
-    <div className="px-4 py-5 my-5 text-center">
-    
+    <div className="px-4 py-5 my-5 text-center">    
     <h1 className="display-5 fw-bold text-body-emphasis">welcome to John Diagnostic Centre</h1>
     <div className="col-lg-6 mx-auto">
       <p className="lead mb-4"><span className="fw-bold">Address : </span> Harali Udaynarayanpur Road, Udaynarayanpur, Howrah</p>

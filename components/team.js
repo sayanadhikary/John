@@ -12,20 +12,20 @@ export default function Team(){
 
     <div className="row">        
       <div className="col-lg-4 text-center">
-        <Image className="bd-placeholder-img rounded-circle"  src={doctor1} width={140} height={140} alt="Doctor1" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" /><title>Placeholder</title>
+        <Image className="bd-placeholder-img rounded-circle"  src={doctor1} width={140} height={140} alt="Doctor1" />
         <h2 className="fw-normal">Dr. Sudipta Laha</h2>
         <p>Doctor of Veterinary Medicine (D.V.M.) with Specialization in Veterinary Pathology:</p>
         <p><a className="btn btn-danger" href="#">View details »</a></p>
       </div>
 
       <div className="col-lg-4 text-center">
-        <Image className="bd-placeholder-img rounded-circle" src={doctor2} width={140} height={140} alt="Doctor2" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" /><title>Placeholder</title>
+        <Image className="bd-placeholder-img rounded-circle" src={doctor2} width={140} height={140} alt="Doctor2" />
         <h2 className="fw-normal">Dr. Mousumi Konar</h2>
         <p>Doctor of Medicine (M.D.) with Specialization in Pathology:</p>
         <p><a className="btn btn-danger" href="#">View details »</a></p>
       </div>
       <div className="col-lg-4 text-center">
-        <Image className="bd-placeholder-img rounded-circle"  src={doctor3} width={140} height={140} alt="Doctor3" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false" /><title>Placeholder</title>
+        <Image className="bd-placeholder-img rounded-circle"  src={doctor3} width={140} height={140} alt="Doctor3" /> 
         <h2 className="fw-normal">Dr. Soumitra Bera</h2>
         <p>Bachelor's Degree (B.S. or B.Sc.) in Pathology or Biomedical Science:</p>
         <p><a className="btn btn-danger" href="#">View details »</a></p>
