@@ -1,11 +1,13 @@
+import Image from "next/image";
 
+import heroImg from "@/Asset/Images/hero.jpg";
 
 export default function Hero(){
     return <>
   <div className="container col-xxl-8 px-4 py-5">
     <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
       <div className="col-10 col-sm-8 col-lg-6">
-        <img src="https://images.pexels.com/photos/8442097/pexels-photo-8442097.jpeg?auto=compress&cs=tinysrgb&w=600" className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy" />
+        <Image src={heroImg} className="d-block mx-lg-auto img-fluid" alt="HeroImage" width={700} height={500} />
       </div>
       <div className="col-lg-6">
         <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3">We care your health today & tomorrow</h1>
