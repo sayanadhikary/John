@@ -27,7 +27,7 @@ export default function Team(){
       <div className="col-lg-4 text-center">
         <Image className="bd-placeholder-img rounded-circle"  src={doctor3} width={140} height={140} alt="Doctor3" /> 
         <h2 className="fw-normal">Dr. Soumitra Bera</h2>
-        <p>Bachelor's Degree (B.S. or B.Sc.) in Pathology or Biomedical Science:</p>
+        <p>Bachelors Degree (B.S. or B.Sc.) in Pathology or Biomedical Science:</p>
         <p><a className="btn btn-danger" href="#">View details »</a></p>
       </div>
     </div>
