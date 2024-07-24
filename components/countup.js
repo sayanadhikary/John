@@ -20,7 +20,7 @@ const [counton, setCounton] = useState(false);
         </div>
         <div className="col">
         <h1>
-        {counton && <CountUp start={0} end={20} duration={3} delay={0} /> }+       
+        {counton && <CountUp start={0} end={20} duration={2} delay={0} /> }+       
     </h1>
     <p>Useful Services</p>
         </div>
