@@ -8,7 +8,7 @@ import doctor3 from "@/Asset/Images/doctor3.jpg"
 export default function Team(){
     return <>
     <div className="container">
-    <h2 className="pb-2 border-bottom text-center"><i className="bi bi-dash-lg text-danger"></i> Doctors <i className="bi bi-dash-lg text-danger"></i></h2>
+    <h2 className="pb-2 border-bottom text-center"><i className="bi bi-dash-lg text-danger"></i>Our Doctors <i className="bi bi-dash-lg text-danger"></i></h2>
 
     <div className="row">        
       <div className="col-lg-4 text-center">
