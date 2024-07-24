@@ -1,7 +1,7 @@
 export default function Contact(){
     return <>
     <div className="px-4 py-5 my-5 text-center">
-    <img className="d-block mx-auto mb-4" src="https://www.kindpng.com/picc/m/134-1341998_contact-icon-images-hd-hd-png-download.png" alt="logo" width="72" height="57" />
+    
     <h1 className="display-5 fw-bold text-body-emphasis">welcome to John Diagnostic Centre</h1>
     <div className="col-lg-6 mx-auto">
       <p className="lead mb-4"><span className="fw-bold">Address : </span> Harali Udaynarayanpur Road, Udaynarayanpur, Howrah</p>
